@@ -1,0 +1,33 @@
+IZIcorp - Kit logo (version 1)
+================================
+
+CONTENU
+- svg/      Fichiers vectoriels (a privilegier : nets a toutes les tailles)
+- png/      Exports haute resolution et icones d'application
+- favicon/  favicon.ico, favicon.svg, PNG 16/32/48
+
+VERSIONS
+- logo-couleur       Usage principal (fond clair ou transparent)
+- logo-noir          Monochrome noir (tampons, impression 1 couleur, fax)
+- logo-blanc         Monochrome blanc (fonds fonces ou photos)
+- logo-fond-sombre   Couleurs eclaircies pour fond sombre (PNG fourni avec fond #0B1220)
+- icone-arrondie     Icone d'application / reseaux sociaux
+- icone-carree       Sans coins arrondis (apple-touch-icon, stores)
+
+COULEURS
+- Bleu     #2563EB   (barres des i)
+- Teal     #14B8A6   (Z et points)
+- Menthe   #99F6E4   (Z et points sur fond bleu)
+- Nuit     #0B1220   (fond sombre)
+- Bleu clair #60A5FA / Teal clair #2DD4BF (version fond sombre)
+
+REGLES D'USAGE
+- Zone de protection : garder autour du logo un vide au moins egal a l'epaisseur d'un trait (la largeur d'un i).
+- Taille minimale : 24 px de haut a l'ecran, 8 mm en impression.
+- Ne pas deformer, pivoter, ni changer les couleurs en dehors des versions fournies.
+- Sur fond fonce, utiliser logo-blanc ou logo-fond-sombre. Sur fond clair, logo-couleur ou logo-noir.
+
+INTEGRATION WEB
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon-180.png">
